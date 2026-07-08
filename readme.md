@@ -7,7 +7,7 @@
 
 ## 大屏预览
 
-![NOC Dashboard](D:\document\大3第3学期\D3\1.png)
+![NOC Dashboard](C:\Users\graci\Pictures\Screenshots\屏幕截图2026-07-08 163136.png)
 
 ---
 
