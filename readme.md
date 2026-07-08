@@ -5,6 +5,12 @@
 
 ---
 
+## 大屏预览
+
+![NOC Dashboard](dashboard_screenshot.png)
+
+---
+
 ## 一、项目概述
 
 基于 TSAR 服务器监控原始数据，完成以下三个核心任务：
