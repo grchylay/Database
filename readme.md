@@ -7,7 +7,7 @@
 
 ## 大屏预览
 
-![NOC Dashboard](docs/screenshots/屏幕截图2026-07-08163136.png)
+![NOC Dashboard](docs/screenshots/screenshot.png)
 
 ---
 
