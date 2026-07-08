@@ -5,10 +5,6 @@
 
 ---
 
-## 大屏预览
-
-![NOC Dashboard](docs/screenshots/screenshot.png)
-
 ---
 
 ## 一、项目概述
