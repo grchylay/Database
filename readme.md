@@ -7,7 +7,7 @@
 
 ## 大屏预览
 
-![NOC Dashboard](../1.png)
+![NOC Dashboard](D:\document\大3第3学期\D3\1.png)
 
 ---
 
