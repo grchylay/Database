@@ -7,7 +7,7 @@
 
 ## 大屏预览
 
-![NOC Dashboard](C:\Users\graci\Pictures\Screenshots\屏幕截图2026-07-08 163136.png)
+![NOC Dashboard](docs/screenshots/屏幕截图2026-07-08163136.png)
 
 ---
 
